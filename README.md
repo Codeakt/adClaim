@@ -1,0 +1,2 @@
+# adClaim
+Gelişmiş Claim eklentisi.
